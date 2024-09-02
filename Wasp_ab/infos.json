@@ -1,0 +1,86 @@
+[
+    {
+        "path": "Wasp_ab/flag_0.PNG",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_1.PNG",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_2.PNG",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_3.PNG",
+        "down_hole": 1,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_4.PNG",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_5.PNG",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_6.PNG",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_7.PNG",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_8.PNG",
+        "down_hole": 1,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_9.PNG",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_10.PNG",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_11.PNG",
+        "down_hole": 0,
+        "up_hole": 1,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_12.PNG",
+        "down_hole": 0,
+        "up_hole": 0,
+        "wait": 20
+    },
+    {
+        "path": "Wasp_ab/flag_13.PNG",
+        "down_hole": 0,
+        "up_hole": 1,
+        "wait": 20
+    }
+]
