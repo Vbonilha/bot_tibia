@@ -14,6 +14,9 @@ Este é um bot para o jogo Tibia como objeto de estudo, desenvolvido em Python. 
 
 - Python 3.x
 - Bibliotecas necessárias: `pyautogui`, `pynput`, `json`, `os`, `threading`, `ctypes`, `pygetwindow`, `win32gui`
+- Gerenciador de pacotes pip: ```bash
+pip install -r requirements.txt
+- 
 
 ## Instalação
 
@@ -34,6 +37,7 @@ Estrutura do Código
 O código está dividido em três arquivos principais:
 
 main.py: Contém a lógica principal do bot, incluindo as funções para matar monstros, coletar loot, se movimentar pelo mapa e gerenciar suprimentos. Também lida com o controle de execução do bot através de teclas de atalho.
+
 actions.py: Contém funções específicas para realizar ações no jogo, como descer e subir buracos, comer comida, verificar se está em batalha e gerenciar suprimentos.
 
 record.py: Responsável por capturar screenshots da tela e registrar as teclas pressionadas durante a execução. Essa funcionalidade é usada para criar um arquivo de configuração que guia o movimento do bot pelo mapa. Após usar o record.py foi criada a pasta Wasp_ab com as flags necessárias para rodar o cavebot com o arquivo infos.json, para criar uma nova pasta ou novo script basta trocar o nome do Folder name no arquivo constants.py 
